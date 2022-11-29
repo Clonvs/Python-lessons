@@ -70,3 +70,6 @@
 # sum = (B1 - A1) * (B1 - A1) + (B2 - A2) * (B2 - A2)
 # sqrt = sum ** 0.5
 # print(int(sqrt * 100) / 100) 
+
+
+
